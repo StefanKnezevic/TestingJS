@@ -1,0 +1,24 @@
+{
+  "name": "testingjs",
+  "version": "1.0.0",
+  "description": "QA testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanKnezevic/TestingJS.git"
+  },
+  "author": "Marija Stojanovic <marijastojanovic14@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StefanKnezevic/TestingJS/issues"
+  },
+  "homepage": "https://github.com/StefanKnezevic/TestingJS#readme",
+  "devDependencies": {
+    "codeceptjs": "^3.4.1",
+    "playwright": "^1.32.2",
+    "puppeteer": "^19.8.5"
+  }
+}
